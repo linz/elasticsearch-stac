@@ -19,6 +19,7 @@
     "pretty-json-log": "^0.3.2"
   },
   "scripts":{
-    "build":"tsc"
+    "build":"tsc",
+    "lint": "eslint {src/**,*.js}"
   }
 }
