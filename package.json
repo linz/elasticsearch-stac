@@ -14,7 +14,7 @@
     "@linzjs/s3fs": "^5.0.0",
     "aws-sdk": "^2.924.0",
     "dotenv": "^10.0.0",
-    "p-limit": "^3.1.0",
+    "p-limit": "^4.0.0",
     "pino": "^6.11.3",
     "pretty-json-log": "^0.3.2"
   },
