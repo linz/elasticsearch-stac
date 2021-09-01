@@ -62,10 +62,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
-"@linzjs/s3fs@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@linzjs/s3fs/-/s3fs-5.0.0.tgz#5f1c5b83d287c53bfd6ee35a880922cd5271df0c"
-  integrity sha512-kf9yNiZEqsRLribiW4rsl7ZM93SH/uBWgqVxk71DtOJ6ZVVl3hvfhY4BYzOAFV2+oet0B75qD5AEoAZuhTgZ5g==
+"@linzjs/s3fs@^6.8.0":
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/@linzjs/s3fs/-/s3fs-6.8.0.tgz#b13f3d52d1a4efe9230b6454e941fc6c76376da3"
+  integrity sha512-84OkllV0u+Ct0FHSsxLhSMab4ZILFEKaEXilM7hN9KbKxvy7fuYlg8Fou3l10Uct1cdBd9DWZzF/JIeZngEGQg==
 
 "@linzjs/style@^3.1.0":
   version "3.1.0"
