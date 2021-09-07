@@ -16,7 +16,7 @@
     "dotenv": "^10.0.0",
     "p-limit": "^4.0.0",
     "pino": "^6.13.1",
-    "pretty-json-log": "^0.3.2"
+    "pretty-json-log": "^0.3.3"
   },
   "scripts":{
     "build":"tsc",
