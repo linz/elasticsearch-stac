@@ -7,7 +7,7 @@
   "devDependencies": {
     "@linzjs/style": "^3.1.0",
     "@types/node": "^15.12.2",
-    "@types/pino": "^6.3.11"
+    "@types/pino": "^7.0.5"
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.14.0",
