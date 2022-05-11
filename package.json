@@ -13,7 +13,7 @@
     "@elastic/elasticsearch": "^7.14.0",
     "@linzjs/s3fs": "^5.0.0",
     "aws-sdk": "^2.974.0",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.0.1",
     "p-limit": "^4.0.0",
     "pino": "^6.13.1",
     "pretty-json-log": "^0.3.2"
