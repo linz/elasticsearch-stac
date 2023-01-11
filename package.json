@@ -10,7 +10,7 @@
     "@types/pino": "^6.3.11"
   },
   "dependencies": {
-    "@elastic/elasticsearch": "^7.14.0",
+    "@elastic/elasticsearch": "^8.6.0",
     "@linzjs/s3fs": "^5.0.0",
     "aws-sdk": "^2.974.0",
     "dotenv": "^10.0.0",
