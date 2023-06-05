@@ -12,7 +12,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.14.0",
     "@linzjs/s3fs": "^5.0.0",
-    "aws-sdk": "^2.974.0",
+    "aws-sdk": "^2.1391.0",
     "dotenv": "^10.0.0",
     "p-limit": "^4.0.0",
     "pino": "^6.13.1",
